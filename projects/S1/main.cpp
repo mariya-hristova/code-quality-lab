@@ -1,3 +1,5 @@
+// trigger Codacy check
+
 #include <iostream>
 using namespace std;
 
